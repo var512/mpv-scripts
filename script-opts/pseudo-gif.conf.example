@@ -1,0 +1,4 @@
+show_messages=yes
+max_duration=60
+extensions=3gp,avi,flv,gif,m4v,mkv,mp4,mpeg,mpg,ogv,rmvb,webm,wmv
+protocols=rtmp,rtsp,http,https,mms,mmst,mmsh,mmshttp,rtp,httpproxy,rtmpe,rtmps,rtmpt,rtmpte,rtmpts,srtp,data,lavf,ffmpeg,udp,ftp,tcp,sftp
